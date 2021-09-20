@@ -149,5 +149,6 @@ footer {
 }
 
 .footer-col-3 ul li {
-  bottom: 0;
+  display: flex;
+  align-items: center;
 }
